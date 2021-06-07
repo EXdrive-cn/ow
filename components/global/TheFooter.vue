@@ -6,7 +6,7 @@
         <a target="_blank" href=" " style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/images/gongan.d0289dc0.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">粤公网安备 44011302002067号</p ></a >
       </div>
       <div>All rights reserved.</div>
-      <div><a href="mailto:support@bioticgo.com">Contact Us</a></div>
+      <div><a href="mailto:support@exdrive.cn">Contact Us</a></div>
     </div>
   </footer>
 </template>

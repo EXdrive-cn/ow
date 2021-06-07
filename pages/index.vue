@@ -76,7 +76,7 @@ export default {}
 
 .foot {
   margin: 0 auto;
-  min-height: 100vh;
+  margin-bottom: 20px;
   display: flex;
   justify-content: center;
   align-items: flex-start;
