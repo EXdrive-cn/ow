@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'exdrive-ow',
+    title: 'EXdrive',
     htmlAttrs: {
       lang: 'en'
     },
