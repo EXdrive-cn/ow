@@ -10,7 +10,7 @@
           href="https://blog.exdrive.cn"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--green"
+          class="button--grey"
         >
           官方博客
         </a>
@@ -18,7 +18,7 @@
           href="https://www.zhihu.com/people/protemplar"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--green"
+          class="button--blue"
         >
           知乎
         </a>
@@ -26,7 +26,7 @@
           href="https://space.bilibili.com/195696636"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--grey"
+          class="button--pink"
         >
           bilibili
         </a>
