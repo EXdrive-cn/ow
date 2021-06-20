@@ -7,6 +7,14 @@
       </h1>
       <div class="links">
         <a
+          href="https://blog.exdrive.cn"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="button--green"
+        >
+          官方博客
+        </a>
+        <a
           href="https://www.zhihu.com/people/protemplar"
           target="_blank"
           rel="noopener noreferrer"
