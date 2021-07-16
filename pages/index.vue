@@ -31,8 +31,11 @@
           bilibili
         </a>
       </div>
-      <div style="width: 100%; margin-top: 50px;">
+      <div style="width: 100%; margin-top: 50px; display: flex; justify-content: center; align-items: center;">
         <img src="/images/exdrive_qr.png" style="width: 120px; height: 120px;"/>
+      </div>
+      <div>
+        扫码领取学习资料《分子克隆实验知识汇总》一份
       </div>
     </div>
   </div>
@@ -50,6 +53,7 @@ export default {}
   justify-content: center;
   align-items: flex-start;
   text-align: center;
+  margin-bottom: 50px;;
 }
 
 .title {
