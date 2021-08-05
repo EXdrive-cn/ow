@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <Logo />
+      
       <h1 class="title">
         老司机
       </h1>
@@ -46,15 +46,15 @@ export default {}
 </script>
 
 <style>
-.container {
+/* .container {
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   text-align: center;
-  margin-bottom: 50px;;
-}
+  margin-bottom: 50px;
+} */
 
 .title {
   font-family:

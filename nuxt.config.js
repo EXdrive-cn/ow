@@ -6,7 +6,7 @@ export default {
   head: {
     title: 'EXdrive',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'cn'
     },
     meta: [
       { charset: 'utf-8' },
@@ -34,6 +34,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxtjs/svg',
     '@nuxtjs/tailwindcss'
   ],
 
@@ -44,6 +45,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    extractCSS: true,
   },
 
   // Google Analytics
