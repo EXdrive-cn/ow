@@ -3,7 +3,7 @@
     <div class=" flex justify-center items-center">
       <h1 class="mt-20 text-5xl text-blue-500">为什么选择老司机</h1>
     </div>
-    <div class="container p-8 flex flex-row">
+    <div class="p-8 flex flex-row">
       <div class="flex flex-col flex-1">
         <div class="flex justify-center items-center ">
           <ladiesImg class="" />
