@@ -1,8 +1,6 @@
 <template>
   <div>
     <Indrod />
-    <!-- <Publishers />
-     -->
     <Why />
     <Companies />
     <ContactWay />
