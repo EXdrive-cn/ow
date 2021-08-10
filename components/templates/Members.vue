@@ -3,10 +3,10 @@
     <div
         v-for="(member, i) in members"
         :key="i"
-        class="p-8 text-center"
+        class="p-8 text-center flex flex-col justify-center items-center"
       >
         <div>
-          <img :src="'/images/members/' + member.img" class="w-20 h-auto"/>
+          <img :src="'/images/members/' + member.img" class="w-32 h-auto"/>
         </div>
         <div class="text-xl text-black">{{member.name}}</div>
         <div class="text-sm text-gray-400 ">{{member.description}}</div>
@@ -55,7 +55,3 @@ export default {
   }
 }
 </script>
-
-<style>
-
-</style>
