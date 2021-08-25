@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="flex flex-col justify-between h-screen">
     <TheNav />
     <Nuxt />
     <TheFooter />
@@ -8,11 +8,11 @@
 
 <style>
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
+html,
+body,#__nuxt,#__layout,#__layout{
+  height: 100%;
   margin: 0;
+  padding: 0;
 }
 
 </style>
