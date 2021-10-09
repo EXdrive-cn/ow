@@ -17,6 +17,7 @@
           <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-pink-400 mr-4 text-xl" href="https://space.bilibili.com/195696636">B站</a>
           <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-gray-400 mr-4 text-xl" href="https://blog.exdrive.cn">文章</a>
           <NuxtLink class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-gray-400 mr-4 text-xl" to="/team">团队</NuxtLink>
+          <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 text-green-600 hover:text-green-400 mr-4 text-xl" href="https://work.weixin.qq.com/kfid/kfc9356685d9b1f2b01">微信客服</a>
         </div>
       </div>
     </nav>
