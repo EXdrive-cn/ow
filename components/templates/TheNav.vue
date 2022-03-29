@@ -13,6 +13,7 @@
       <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div class="text-sm lg:flex-grow flex justify-start">
           <NuxtLink class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-gray-400 mr-4 text-xl" to="/">首页</NuxtLink>
+          <NuxtLink class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-gray-400 mr-4 text-xl" href="https://appkth0y5jh8510.pc.xiaoe-tech.com/page/2794589?navIndex=1">学习中心</NuxtLink>
           <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-blue-800 mr-4 text-xl" href="https://www.zhihu.com/people/exdrive">知乎</a>
           <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-pink-400 mr-4 text-xl" href="https://space.bilibili.com/195696636">B站</a>
           <a class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-gray-400 mr-4 text-xl" href="https://blog.exdrive.cn">文章</a>
