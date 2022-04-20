@@ -13,8 +13,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['PingFangSC-Regular,', 'Microsoft YaHei', 'Graphik', 'sans-serif'],
-        serif: ['PingFangSC-Regular,', 'Microsoft YaHei', 'Merriweather', 'serif'],
+        'sans': ['PingFangSC-Regular,', 'Microsoft YaHei', 'Graphik', 'sans-serif'],
+        'serif': ['PingFangSC-Regular,', 'Microsoft YaHei', 'Merriweather', 'serif'],
       }
     },
   },
