@@ -34,7 +34,7 @@ export default {
         },
         
         {
-          name: '圆子',
+          name: '东华西圆子',
           img: 'mary.svg?inline',
           description: '管家'
         },
