@@ -34,7 +34,7 @@ export default {
         },
         
         {
-          name: '化龙圆子',
+          name: '圆子',
           img: 'mary.svg?inline',
           description: '管家'
         },
@@ -42,12 +42,6 @@ export default {
         {
           name: 'bobo',
           img: 'bobo.svg?inline',
-          description: '短视频干饭人'
-        },
-
-        {
-          name: '阿加西',
-          img: 'jx.svg?inline',
           description: '短视频干饭人'
         }
       ]
