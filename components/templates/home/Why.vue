@@ -36,15 +36,15 @@
 </template>
 
 <script>
-import bossImg from '~/assets/images/boss.svg?inline'
-import kbImg from '~/assets/images/be.svg?inline'
-import ladiesImg from '~/assets/images/ladies.svg?inline'
+  import bossImg from '~/assets/images/boss.svg?inline'
+  import kbImg from '~/assets/images/be.svg?inline'
+  import ladiesImg from '~/assets/images/ladies.svg?inline'
 
-export default {
-  components: {
-    bossImg,
-    kbImg,
-    ladiesImg
+  export default {
+    components: {
+      bossImg,
+      kbImg,
+      ladiesImg
+    }
   }
-}
 </script>
