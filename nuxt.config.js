@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'EXdrive',
+    title: '老司机（广州）信息技术有限公司',
     htmlAttrs: {
       lang: 'cn'
     },
